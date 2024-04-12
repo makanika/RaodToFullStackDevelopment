@@ -16,7 +16,7 @@ In this repository, we will embark on a journey through various stages of web de
 1. **Web Development:**
 <center >
 <summary>Click to view full image</summary>
-<img src="./Resources/SystemDesignWeb-thumbnail.png" alt="JavaScript Full Stack Development" style="cursor: pointer;" onclick="this.src='./Resources/SystemDesignWeb.png';">
+<img src="./Resources/SystemDesignWeb.png" alt="JavaScript Full Stack Development" style="cursor: pointer;" onclick="this.src='./Resources/SystemDesignWeb-thumbnail.png';">
 
 We'll start with the fundamentals of web development, including HTML, CSS, and vanilla JavaScript. Our initial todo list will be basic but functional, refer to system design image above for a clear view of the features included in the web virssion of the todo list ....
 </center>
